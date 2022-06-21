@@ -1,0 +1,13 @@
+/Users/duyguhasanzade/Projects/210622/task/task/bin/Debug/netcoreapp3.1/task.deps.json
+/Users/duyguhasanzade/Projects/210622/task/task/bin/Debug/netcoreapp3.1/task.runtimeconfig.json
+/Users/duyguhasanzade/Projects/210622/task/task/bin/Debug/netcoreapp3.1/task.runtimeconfig.dev.json
+/Users/duyguhasanzade/Projects/210622/task/task/bin/Debug/netcoreapp3.1/task.dll
+/Users/duyguhasanzade/Projects/210622/task/task/bin/Debug/netcoreapp3.1/task.pdb
+/Users/duyguhasanzade/Projects/210622/task/task/obj/Debug/netcoreapp3.1/task.csproj.AssemblyReference.cache
+/Users/duyguhasanzade/Projects/210622/task/task/obj/Debug/netcoreapp3.1/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duyguhasanzade/Projects/210622/task/task/obj/Debug/netcoreapp3.1/task.AssemblyInfoInputs.cache
+/Users/duyguhasanzade/Projects/210622/task/task/obj/Debug/netcoreapp3.1/task.AssemblyInfo.cs
+/Users/duyguhasanzade/Projects/210622/task/task/obj/Debug/netcoreapp3.1/task.csproj.CoreCompileInputs.cache
+/Users/duyguhasanzade/Projects/210622/task/task/obj/Debug/netcoreapp3.1/task.dll
+/Users/duyguhasanzade/Projects/210622/task/task/obj/Debug/netcoreapp3.1/task.pdb
+/Users/duyguhasanzade/Projects/210622/task/task/obj/Debug/netcoreapp3.1/task.genruntimeconfig.cache
